@@ -1,0 +1,1 @@
+<p class="bg-warning"><?= $this->lang->line('no_data') ?></p>
